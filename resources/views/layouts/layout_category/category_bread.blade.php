@@ -1,4 +1,5 @@
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,7 +10,11 @@
     @vite('resources/css/app.css')
     <title>Document</title>
 </head>
-<body class="bg-yellow-600 font-jaldi">
-    <x-content></x-content>
+
+<body class="bg-white font-jaldi">
+    <x-header class="absolute top-0 z-10"></x-header>
+    <x-category.content_category_bread :dataRecipes="$data"></x-category.content_category_bread>
+    <x-footer class="absolute bottom-0"></x-footer>
 </body>
+
 </html>
