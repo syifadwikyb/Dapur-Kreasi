@@ -8,13 +8,11 @@
         </div>
         <div class="flex gap-x-12">
             <a href="/"
-                class="text-lg font-semibold text-gray-900 hover:text-orange-600 hover:underline transition-all duration-300 transform hover:scale-105">Beranda</a>
+                class="text-lg font-semibold text-gray-900 hover:text-orange-600 hover:underline transition-all duration-300 transform hover:scale-105">Home</a>
             <a href="/#recomendation"
-                class="text-lg font-semibold text-gray-900 hover:text-orange-600 hover:underline transition-all duration-300 transform hover:scale-105">Rekomendasi</a>
+                class="text-lg font-semibold text-gray-900 hover:text-orange-600 hover:underline transition-all duration-300 transform hover:scale-105">Recommendation</a>
             <a href="/category"
-                class="text-lg font-semibold text-gray-900 hover:text-orange-600 hover:underline transition-all duration-300 transform hover:scale-105">Kategori</a>
-            <a href="/favorite"
-                class="text-lg font-semibold text-gray-900 hover:text-orange-600 hover:underline transition-all duration-300 transform hover:scale-105">Favorit</a>
+                class="text-lg font-semibold text-gray-900 hover:text-orange-600 hover:underline transition-all duration-300 transform hover:scale-105">Category</a>        
         </div>
     </nav>
 </header>

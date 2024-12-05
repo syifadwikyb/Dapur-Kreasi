@@ -4,10 +4,10 @@
     <div data-aos="zoom-in" class="mx-full h-screen flex items-center justify-center relative">
         <div class="text-center">
             <h1 class="mb-3 font-bold text-2xl md:text-3xl text-white">
-                Inspirasi Masakan Harian yang Praktis dan Lezat, <br>Temukan Resep Favorit Anda disini
+                Practical and Delicious Daily Cooking Inspiration,<br> Find Your Favorite Recipes Here
             </h1>
             <p class="mb-8 font-normal text-xl md:text-2xl text-white">
-                Masak Lebih Mudah dengan Panduan Resep yang Sederhana dan Nikmat
+                Cooking Made Easier with Simple and Delicious Recipe Guides
             </p>
         </div>
 
@@ -21,7 +21,7 @@
     <div class="mx-auto flex max-w-7xl items-center gap-6 p-6 lg:px-8">
         <p id="recomendation"></p>
         <div class="flex lg:flex-1">
-            <a href="#" class="text-2xl font-semibold text-gray-900">Menu Rekomendasi Hari Ini</a>
+            <a href="#" class="text-2xl font-semibold text-gray-900">Today's Recommended Menu</a>
         </div>
 
         <div class="flex gap-6">

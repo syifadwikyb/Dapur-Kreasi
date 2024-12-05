@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="icon" href="{{ asset('asset/headerico.png') }}">
     @vite('resources/css/app.css')
-    <title>Document</title>
+    <title>Home</title>
 </head>
 
 <body class="bg-orange-600 font-jaldi">

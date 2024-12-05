@@ -1,5 +1,6 @@
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 <div class="container mx-auto text-4xl text-black font-bold py-8 pl-16">
-    Kategori Dessert
+    Dessert Category
 </div>
 <div class="bg-white flex items-center justify-around">
     <div class="grid grid-cols-1 sm:grid-cols-4 gap-8 mx-16">

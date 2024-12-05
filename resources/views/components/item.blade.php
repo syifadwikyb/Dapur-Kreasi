@@ -1,4 +1,4 @@
-<div onclick="window.location='{{ route('recipe.show', ['id' => $recipe['id'] ?? 0]) }}'" class="flex w-[400px] items-center bg-white border border-purple-400 rounded-lg p-4 shadow-md relative">
+<div data-aos="fade-up" data-aos-duration="1000" onclick="window.location='{{ route('recipe.show', ['id' => $recipe['id'] ?? 0]) }}'" class="flex w-[400px] items-center bg-white border border-purple-400 rounded-lg p-4 shadow-md relative cursor-pointer">
     <img src="{{ $recipe['image'] ?? asset('asset/default_image.svg')}}" class="w-32 h-24 rounded">
     <div class="ml-4">
         <h3 class="text-lg font-bold w-44">{{ $recipe['title'] ?? 'No Title' }}</h3>    
